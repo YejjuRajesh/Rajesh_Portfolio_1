@@ -308,6 +308,8 @@ input,textarea,select{
     line-height: 25px;
     color: #504e70;
     margin: 0;
+    text-align: justify;
+
 }
 
 .about .about-content .personal-info{
@@ -481,6 +483,8 @@ input,textarea,select{
     line-height: 25px;
     color: #504e70;
     margin: 0;
+    text-align: justify;
+
 }
 
 .contact .contact-info-item{
@@ -558,11 +562,13 @@ input,textarea,select{
 
 .contact .contact-form .form-item textarea.form-control{
     height: 140px;
-    width: 100%;
+    width: 1100px;
+    text-align: justify;
 }
 .contact .contact-form .btn{
     height: 50px;
     padding: 0 50px;
+    text-align: justify;
 }
 
 
