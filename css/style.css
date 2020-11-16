@@ -562,13 +562,11 @@ input,textarea,select{
 
 .contact .contact-form .form-item textarea.form-control{
     height: 140px;
-    width: 1100px;
-    text-align: justify;
+    width: 100%;
 }
 .contact .contact-form .btn{
     height: 50px;
     padding: 0 50px;
-    text-align: justify;
 }
 
 
